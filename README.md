@@ -2,6 +2,10 @@
 
 ## 実行前に
 
+### uvのインストール
+
+- [install](https://docs.astral.sh/uv/getting-started/installation/)
+
 ### gcloudでのログイン
 
 - [install](https://cloud.google.com/sdk/docs/install?hl=ja)
