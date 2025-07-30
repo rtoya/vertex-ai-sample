@@ -4,7 +4,8 @@
 
 ### gcloudでのログイン
 
-- https://cloud.google.com/sdk/docs/install?hl=ja
+- [install](https://cloud.google.com/sdk/docs/install?hl=ja)
+- [init](https://cloud.google.com/sdk/docs/initializing?hl=ja)
 
 
 ### 環境変数の設定
