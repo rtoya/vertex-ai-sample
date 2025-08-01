@@ -44,7 +44,3 @@ vertex-ai-sample/
 ├── uv.lock
 └── README.md
 ```
-
-## ライセンス
-
-[ライセンス情報をここに追加]
