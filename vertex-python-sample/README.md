@@ -1,4 +1,4 @@
-# vertex-ai-sample
+# vertex-python-sample
 
 ## 実行前に
 
